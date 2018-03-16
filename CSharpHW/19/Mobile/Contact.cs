@@ -8,13 +8,13 @@ namespace Mobile
 {
     class Contact
     {
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
+        public string FName { get; set; }
+        
 
-        public Contact(string fName, string lName)
+        public Contact(string Name)
         {
-            FirstName = fName;
-            LastName = lName;
+            this.FName = Name;
+            
         }
     }
 }

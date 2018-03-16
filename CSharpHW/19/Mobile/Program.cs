@@ -22,38 +22,39 @@ namespace Mobile
             var acc5 = kyivstar.CreateAccount(5655);
             var acc6 = kyivstar.CreateAccount(6126);
 
-            acc2.AddContact(acc1.Number, "First", "Contact");
-            acc1.Call(acc2.Number);
-            Console.WriteLine("start my try");
-            acc3.Call(1234565656);
-            Console.WriteLine("finish my try");
-            Console.WriteLine();
+            acc2.AddContact(acc1.Number, "First");
+            acc1.Call(acc3.Number);
+
+            acc6.AddContact(acc3.Number, "Third");
+            acc3.AddContact(acc6.Number, "Sixth");
 
             acc1.Call(acc2.Number);
             acc2.Call(acc6.Number);
-            acc3.Call(acc4.Number);
             acc4.Call(acc5.Number);
-            acc5.Call(acc1.Number);
-            acc4.Call(acc6.Number);
-
             acc3.Call(acc4.Number);
             acc4.Call(acc6.Number);
             acc3.Call(acc4.Number);
-            acc6.Call(acc2.Number);
-            acc5.Call(acc1.Number);
+            acc6.Call(acc3.Number);
+            acc3.Call(acc5.Number);
             acc5.Call(acc6.Number);
 
+            Console.WriteLine();
 
-            acc1.AddContact(acc3.Number, "Third", "Contact");
+
             acc3.SendMessage(acc1.Number, "Hello");
 
-            var nums = kyivstar.Get5MostCallingNumbers();
+            var numc = kyivstar.Get5MostCallingNumbers();
             Console.WriteLine("\n5 Most Calling Accounts: ");
-            foreach(var n in nums)
+            foreach(var n in numc)
             {
                 Console.WriteLine(n);
             }
-            kyivstar.Get5MostActiveNumbers();
+            var numa = kyivstar.Get5MostActiveNumbers();
+            Console.WriteLine("\n5 Most Active Accounts: ");
+            foreach (var n in numa)
+            {
+                Console.WriteLine(n);
+            }
             Console.ReadLine();
         }
     }
