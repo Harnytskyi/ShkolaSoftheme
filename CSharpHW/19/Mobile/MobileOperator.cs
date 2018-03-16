@@ -65,46 +65,6 @@ namespace Mobile
                 .Take(5)
                 .Select(num => num.Key).ToList();
         }
-        /*
-                public void Get5MostActiveNumbers()
-                {
-                    var groupsCall = _callFromAccounts.GroupBy(call => call);
-                    var groupsSMS = _callFromAccounts.GroupBy(sms => sms);
-                    var leftoutrtjoin = (from sms in groupsSMS
-                                       join call in groupsCall on sms.Key equals call.Key into SC
-
-                                       from newSC in SC.DefaultIfEmpty()
-
-                                       select new
-                                       {
-                                           account = sms.Key,
-                                           activity = newSC?.Count() + (double)sms.Count() / 2 ?? (double)sms.Count() / 2
-                                       }).ToList();
-                    var rightouterjoin = (from call in groupsCall
-
-                                          join sms in groupsSMS on call.Key equals sms.Key into CS
-
-                                          from newCS in CS.DefaultIfEmpty()
-
-                                          select new
-                                          {
-                                              account = call.Key,
-                                              activity = newCS == null ? call.Count() : (double)newCS.Count() / 2 + call.Count()
-                                          }).ToList();
-
-
-                    var fullouterjoin = leftoutrtjoin.Union(rightouterjoin);
-
-                    var result = (from account in fullouterjoin
-                                  orderby account.activity descending
-                                  select account.account).Take(5);
-
-
-                    Console.WriteLine("5 Most Active Numbers: ");
-                    foreach (var item in result)
-                    {
-                        Console.WriteLine(item);
-                    }
-                }*/
+        
     }
 }
