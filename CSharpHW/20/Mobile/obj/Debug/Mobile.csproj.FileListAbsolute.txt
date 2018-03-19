@@ -1,7 +1,0 @@
-c:\users\andrij garnytskyi\source\repos\Mobile\Mobile\bin\Debug\Mobile.exe.config
-c:\users\andrij garnytskyi\source\repos\Mobile\Mobile\bin\Debug\Mobile.exe
-c:\users\andrij garnytskyi\source\repos\Mobile\Mobile\bin\Debug\Mobile.pdb
-c:\users\andrij garnytskyi\source\repos\Mobile\Mobile\obj\Debug\Mobile.csprojResolveAssemblyReference.cache
-c:\users\andrij garnytskyi\source\repos\Mobile\Mobile\obj\Debug\Mobile.csproj.CoreCompileInputs.cache
-c:\users\andrij garnytskyi\source\repos\Mobile\Mobile\obj\Debug\Mobile.exe
-c:\users\andrij garnytskyi\source\repos\Mobile\Mobile\obj\Debug\Mobile.pdb
