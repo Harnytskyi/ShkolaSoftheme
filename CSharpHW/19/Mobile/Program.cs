@@ -22,6 +22,7 @@ namespace Mobile
             var acc5 = kyivstar.CreateAccount(5655);
             var acc6 = kyivstar.CreateAccount(6126);
 
+            acc3.SendMessage(acc1.Number, "Hello");
             acc2.AddContact(acc1.Number, "First");
             acc1.Call(acc3.Number);
 
@@ -41,7 +42,7 @@ namespace Mobile
             Console.WriteLine();
 
 
-            acc3.SendMessage(acc1.Number, "Hello");
+            
 
             var numc = kyivstar.Get5MostCallingNumbers();
             Console.WriteLine("\n5 Most Calling Accounts: ");

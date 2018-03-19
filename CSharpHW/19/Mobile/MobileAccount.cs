@@ -56,9 +56,10 @@ namespace Mobile
             private string GetContactStr(int number)
             {
                 Contact contact;
-                return _contacts.TryGetValue(number, out contact)
+                var result = _contacts.TryGetValue(number, out contact)
                     ? $"{contact.FName} "
                     : number.ToString();
+            return result;
             }
         
     }
