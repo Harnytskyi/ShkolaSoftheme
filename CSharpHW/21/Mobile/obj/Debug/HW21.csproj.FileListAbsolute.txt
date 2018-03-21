@@ -1,0 +1,7 @@
+D:\Users\Andrij Garnytskyi\Documents\21\19\Mobile\bin\Debug\Mobile.exe.config
+D:\Users\Andrij Garnytskyi\Documents\21\19\Mobile\bin\Debug\Mobile.exe
+D:\Users\Andrij Garnytskyi\Documents\21\19\Mobile\bin\Debug\Mobile.pdb
+D:\Users\Andrij Garnytskyi\Documents\21\19\Mobile\obj\Debug\HW21.csprojResolveAssemblyReference.cache
+D:\Users\Andrij Garnytskyi\Documents\21\19\Mobile\obj\Debug\HW21.csproj.CoreCompileInputs.cache
+D:\Users\Andrij Garnytskyi\Documents\21\19\Mobile\obj\Debug\Mobile.exe
+D:\Users\Andrij Garnytskyi\Documents\21\19\Mobile\obj\Debug\Mobile.pdb
