@@ -4,3 +4,9 @@ c:\Users\andrij garnytskyi\source\repos\HW29\assembly\bin\Debug\assembly.pdb
 c:\Users\andrij garnytskyi\source\repos\HW29\assembly\obj\Debug\assembly.csproj.CoreCompileInputs.cache
 c:\Users\andrij garnytskyi\source\repos\HW29\assembly\obj\Debug\assembly.exe
 c:\Users\andrij garnytskyi\source\repos\HW29\assembly\obj\Debug\assembly.pdb
+C:\Users\1\Documents\Harnytskyi\CSharpHW\29\assembly\bin\Debug\assembly.exe.config
+C:\Users\1\Documents\Harnytskyi\CSharpHW\29\assembly\bin\Debug\assembly.exe
+C:\Users\1\Documents\Harnytskyi\CSharpHW\29\assembly\bin\Debug\assembly.pdb
+C:\Users\1\Documents\Harnytskyi\CSharpHW\29\assembly\obj\Debug\assembly.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\Harnytskyi\CSharpHW\29\assembly\obj\Debug\assembly.exe
+C:\Users\1\Documents\Harnytskyi\CSharpHW\29\assembly\obj\Debug\assembly.pdb

@@ -35,9 +35,9 @@ namespace HW29
                 object ClassObj = Constructor.Invoke(new object[] { });
 
 
-                MethodInfo m1 = t.GetMethod("ShowMessege", new Type[] { typeof(string) });
+                MethodInfo m1 = t.GetMethod("ShowMessage", new Type[] { typeof(string) });
                 m1.Invoke(ClassObj, new object[] { "test123" });
-                MethodInfo m2 = t.GetMethod("ShowMessege", new Type[0]);
+                MethodInfo m2 = t.GetMethod("ShowMessage", new Type[0]);
                 m2.Invoke(ClassObj, new object[0]);
             }
 

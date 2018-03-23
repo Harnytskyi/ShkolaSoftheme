@@ -5,3 +5,10 @@ c:\users\andrij garnytskyi\source\repos\HW29\HW29\obj\Debug\HW29.csprojResolveAs
 c:\users\andrij garnytskyi\source\repos\HW29\HW29\obj\Debug\HW29.csproj.CoreCompileInputs.cache
 c:\users\andrij garnytskyi\source\repos\HW29\HW29\obj\Debug\HW29.exe
 c:\users\andrij garnytskyi\source\repos\HW29\HW29\obj\Debug\HW29.pdb
+C:\Users\1\Documents\Harnytskyi\CSharpHW\29\HW29\bin\Debug\HW29.exe.config
+C:\Users\1\Documents\Harnytskyi\CSharpHW\29\HW29\bin\Debug\HW29.exe
+C:\Users\1\Documents\Harnytskyi\CSharpHW\29\HW29\bin\Debug\HW29.pdb
+C:\Users\1\Documents\Harnytskyi\CSharpHW\29\HW29\obj\Debug\HW29.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Harnytskyi\CSharpHW\29\HW29\obj\Debug\HW29.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\Harnytskyi\CSharpHW\29\HW29\obj\Debug\HW29.exe
+C:\Users\1\Documents\Harnytskyi\CSharpHW\29\HW29\obj\Debug\HW29.pdb

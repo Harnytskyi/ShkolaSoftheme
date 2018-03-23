@@ -19,14 +19,14 @@ namespace assembly
             Console.WriteLine("{0}, { 1}", a, b);
         }
 
-        public void ShowMessege()
+        public void ShowMessage()
         {
-            Console.WriteLine("messege");
+            Console.WriteLine("message");
         }
 
-        public void ShowMessege(string messege)
+        public void ShowMessage(string message)
         {
-            Console.WriteLine(messege);
+            Console.WriteLine(message);
         }
     }
 }
