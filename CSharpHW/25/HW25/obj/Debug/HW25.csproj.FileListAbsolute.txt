@@ -6,3 +6,11 @@ c:\users\andrij garnytskyi\source\repos\HW25\HW25\obj\Debug\HW25.csprojResolveAs
 c:\users\andrij garnytskyi\source\repos\HW25\HW25\obj\Debug\HW25.csproj.CoreCompileInputs.cache
 c:\users\andrij garnytskyi\source\repos\HW25\HW25\obj\Debug\HW25.exe
 c:\users\andrij garnytskyi\source\repos\HW25\HW25\obj\Debug\HW25.pdb
+C:\Users\1\Documents\Harnytskyi\CSharpHW\25\HW25\bin\Debug\HW25.exe.config
+C:\Users\1\Documents\Harnytskyi\CSharpHW\25\HW25\bin\Debug\HW25.exe
+C:\Users\1\Documents\Harnytskyi\CSharpHW\25\HW25\bin\Debug\HW25.pdb
+C:\Users\1\Documents\Harnytskyi\CSharpHW\25\HW25\bin\Debug\System.IO.Compression.dll
+C:\Users\1\Documents\Harnytskyi\CSharpHW\25\HW25\obj\Debug\HW25.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Harnytskyi\CSharpHW\25\HW25\obj\Debug\HW25.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\Harnytskyi\CSharpHW\25\HW25\obj\Debug\HW25.exe
+C:\Users\1\Documents\Harnytskyi\CSharpHW\25\HW25\obj\Debug\HW25.pdb

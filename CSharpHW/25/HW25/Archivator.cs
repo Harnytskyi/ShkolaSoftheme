@@ -21,12 +21,18 @@ namespace HW25
             if (Directory.Exists(directory))
             {
                 string[] dirs = Directory.GetDirectories(directory);
+                var currentThreads = new List<Thread>(dirs.Length);
                 foreach (string s in dirs)
                 {
                     Thread myThread = new Thread(ZipFilesInDirectory);
                     myThread.Start(s);
-                }
 
+                    currentThreads.Add(myThread);
+                }
+                foreach(var thread in currentThreads)
+                {
+                    thread.Join();
+                }
                 string[] files = Directory.GetFiles(directory);
                 foreach (string s in files)
                 {
