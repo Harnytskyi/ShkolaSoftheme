@@ -1,0 +1,7 @@
+C:\Users\Andrij Garnytskyi\source\repos\22\Mobile\bin\Debug\Mobile.exe.config
+C:\Users\Andrij Garnytskyi\source\repos\22\Mobile\bin\Debug\Mobile.exe
+C:\Users\Andrij Garnytskyi\source\repos\22\Mobile\bin\Debug\Mobile.pdb
+C:\Users\Andrij Garnytskyi\source\repos\22\Mobile\obj\Debug\HW22.csproj.CoreCompileInputs.cache
+C:\Users\Andrij Garnytskyi\source\repos\22\Mobile\obj\Debug\Mobile.exe
+C:\Users\Andrij Garnytskyi\source\repos\22\Mobile\obj\Debug\Mobile.pdb
+C:\Users\Andrij Garnytskyi\source\repos\22\Mobile\obj\Debug\HW22.csprojResolveAssemblyReference.cache
