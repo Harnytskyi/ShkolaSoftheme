@@ -1,0 +1,14 @@
+C:\Users\Andrij Garnytskyi\source\repos\HW26\HW26\bin\Debug\HW26.exe.config
+C:\Users\Andrij Garnytskyi\source\repos\HW26\HW26\bin\Debug\HW26.exe
+C:\Users\Andrij Garnytskyi\source\repos\HW26\HW26\bin\Debug\HW26.pdb
+C:\Users\Andrij Garnytskyi\source\repos\HW26\HW26\obj\Debug\HW26.csprojResolveAssemblyReference.cache
+C:\Users\Andrij Garnytskyi\source\repos\HW26\HW26\obj\Debug\HW26.csproj.CoreCompileInputs.cache
+C:\Users\Andrij Garnytskyi\source\repos\HW26\HW26\obj\Debug\HW26.exe
+C:\Users\Andrij Garnytskyi\source\repos\HW26\HW26\obj\Debug\HW26.pdb
+D:\Users\Andrij Garnytskyi\Documents\ShkolaSoftheme\CSharpHW\26\HW26\bin\Debug\HW26.exe.config
+D:\Users\Andrij Garnytskyi\Documents\ShkolaSoftheme\CSharpHW\26\HW26\bin\Debug\HW26.exe
+D:\Users\Andrij Garnytskyi\Documents\ShkolaSoftheme\CSharpHW\26\HW26\bin\Debug\HW26.pdb
+D:\Users\Andrij Garnytskyi\Documents\ShkolaSoftheme\CSharpHW\26\HW26\obj\Debug\HW26.csprojResolveAssemblyReference.cache
+D:\Users\Andrij Garnytskyi\Documents\ShkolaSoftheme\CSharpHW\26\HW26\obj\Debug\HW26.csproj.CoreCompileInputs.cache
+D:\Users\Andrij Garnytskyi\Documents\ShkolaSoftheme\CSharpHW\26\HW26\obj\Debug\HW26.exe
+D:\Users\Andrij Garnytskyi\Documents\ShkolaSoftheme\CSharpHW\26\HW26\obj\Debug\HW26.pdb
