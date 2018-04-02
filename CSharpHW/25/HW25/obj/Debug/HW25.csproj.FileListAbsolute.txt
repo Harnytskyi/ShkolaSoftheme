@@ -1,0 +1,8 @@
+c:\users\andrij garnytskyi\source\repos\HW25\HW25\bin\Debug\HW25.exe.config
+c:\users\andrij garnytskyi\source\repos\HW25\HW25\bin\Debug\HW25.exe
+c:\users\andrij garnytskyi\source\repos\HW25\HW25\bin\Debug\HW25.pdb
+c:\users\andrij garnytskyi\source\repos\HW25\HW25\bin\Debug\System.IO.Compression.dll
+c:\users\andrij garnytskyi\source\repos\HW25\HW25\obj\Debug\HW25.csprojResolveAssemblyReference.cache
+c:\users\andrij garnytskyi\source\repos\HW25\HW25\obj\Debug\HW25.csproj.CoreCompileInputs.cache
+c:\users\andrij garnytskyi\source\repos\HW25\HW25\obj\Debug\HW25.exe
+c:\users\andrij garnytskyi\source\repos\HW25\HW25\obj\Debug\HW25.pdb
