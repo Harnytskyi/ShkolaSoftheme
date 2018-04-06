@@ -1,0 +1,6 @@
+c:\Users\andrij garnytskyi\source\repos\HW29\assembly\bin\Debug\assembly.exe.config
+c:\Users\andrij garnytskyi\source\repos\HW29\assembly\bin\Debug\assembly.exe
+c:\Users\andrij garnytskyi\source\repos\HW29\assembly\bin\Debug\assembly.pdb
+c:\Users\andrij garnytskyi\source\repos\HW29\assembly\obj\Debug\assembly.csproj.CoreCompileInputs.cache
+c:\Users\andrij garnytskyi\source\repos\HW29\assembly\obj\Debug\assembly.exe
+c:\Users\andrij garnytskyi\source\repos\HW29\assembly\obj\Debug\assembly.pdb
