@@ -1,0 +1,7 @@
+D:\Users\Andrij Garnytskyi\Documents\ShkolaSoftheme\CSharpHW\2\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Users\Andrij Garnytskyi\Documents\ShkolaSoftheme\CSharpHW\2\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Users\Andrij Garnytskyi\Documents\ShkolaSoftheme\CSharpHW\2\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Users\Andrij Garnytskyi\Documents\ShkolaSoftheme\CSharpHW\2\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\Users\Andrij Garnytskyi\Documents\ShkolaSoftheme\CSharpHW\2\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Users\Andrij Garnytskyi\Documents\ShkolaSoftheme\CSharpHW\2\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Users\Andrij Garnytskyi\Documents\ShkolaSoftheme\CSharpHW\2\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
