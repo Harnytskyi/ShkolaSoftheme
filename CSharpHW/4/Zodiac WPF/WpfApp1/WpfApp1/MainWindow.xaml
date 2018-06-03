@@ -1,0 +1,18 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="575">
+    <Grid>
+        <Image x:Name ="imageSign" HorizontalAlignment="Left" Height="324" Margin="224,26,0,0" VerticalAlignment="Top" Width="324"/>
+        <TextBox x:Name ="userDate" HorizontalAlignment="Left" Height="23" Margin="25,85,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" TextChanged="userDate_TextChanged"/>
+        <Label Content="Your zodiac sign is:" HorizontalAlignment="Left" Margin="25,139,0,0" VerticalAlignment="Top" Width="120"/>
+        <Label x:Name ="userSignLabel" Content="" HorizontalAlignment="Left" Margin="25,170,0,0" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Enter your birth day DD/MM/YYYY" HorizontalAlignment="Left" Margin="25,59,0,0" VerticalAlignment="Top"/>
+        <Button Content="Sign" HorizontalAlignment="Left" Margin="150,85,0,0" VerticalAlignment="Top" Width="68" Height="23" Click="Button_Click"/>
+
+    </Grid>
+</Window>
