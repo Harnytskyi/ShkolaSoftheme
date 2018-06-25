@@ -1,0 +1,11 @@
+<h2>{{ article[id]}} </h2>
+<div *ngFor = 'let lst of article'>
+    
+    <h4>Стаття з рубрики: {{heading}}</h4>
+        
+    <h2 (click)="changeColor();" [ngStyle]="{'color': stringColor}">{{lst.title}}</h2>
+    {{lst.shortDescription}}
+    <br>
+    <h4>Зазначте рубрику: <input type="text" [(ngModel)]="heading" /></h4>
+             
+</div>
